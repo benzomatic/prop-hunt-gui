@@ -6,7 +6,7 @@ The prophunt.cfg in this repository will enable you to quickly choose props whil
 
 # Installation
 
-- Download prophunt.cfg
+- Download [prophunt.cfg](prophunt.cfg)
 - Put prophunt.cfg into your Sauerbraten home directory
 - Open your autoexec.cfg, either from your home directory or ingame (options -> cfg -> autoexec.cfg editor)
 - enter `exec prophunt.cfg` into a seperate line of your autoexec
