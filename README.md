@@ -6,7 +6,7 @@ The prophunt.cfg in this repository will enable you to quickly choose props whil
 
 # Installation
 
-- Download [prophunt.cfg](prophunt.cfg)
+- Download [prophunt.cfg](https://github.com/benzomatic/prop-hunt-gui/releases/latest)
 - Put prophunt.cfg into your Sauerbraten home directory
 - Open your autoexec.cfg, either from your home directory or ingame (options -> cfg -> autoexec.cfg editor)
 - enter `exec prophunt.cfg` into a seperate line of your autoexec
@@ -21,3 +21,9 @@ It is recommended that you bind this command to a key for quick access, e.g. ```
 After this, browse through a sorted list of models and click the images to change them instead of endlessly scrolling.
 
 Have fun :)
+
+# More
+
+If you need help with anything, ask away on [Our discord server](https://discord.gg/EmPEA2xJqQ).
+
+Thanks to Jed for the improved layout!
